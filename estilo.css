@@ -1,0 +1,35 @@
+body{
+    background-color:#F5F2ED;
+}
+h1{
+    background-color: #C9992D;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    margin:20px;
+}
+#texto1{
+    text-align: center;
+    font-size: 30px;
+}
+.caixa{
+    border:2px solid #462F21;
+    color:#462F21;
+    margin: 20px;
+    padding: 25px;
+}
+#titulometas{ 
+    font-size: 30px;  
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+    padding: 25px;       
+}
+.metas{
+    background-color:#B5BE97;
+    color:#462F21;
+    margin: 20px;
+    padding: 25px;   
+}
